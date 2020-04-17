@@ -1,0 +1,10 @@
+name = "JustinWillmert"
+uuid = "b03618a4-f3f8-577f-b15b-d9c21dacf23e"
+repo = "https://github.com/jmert/Registry.jl"
+
+description = """
+Repository of Justin Willmert's julia packages.
+"""
+
+[packages]
+592991c5-7c29-5f04-aea2-6d9f924ef2a1 = { name = "CMB", path = "C/CMB" }
