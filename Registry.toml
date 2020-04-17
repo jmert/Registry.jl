@@ -8,3 +8,4 @@ Repository of Justin Willmert's julia packages.
 
 [packages]
 592991c5-7c29-5f04-aea2-6d9f924ef2a1 = { name = "CMB", path = "C/CMB" }
+d1d4a3ce-64b1-5f1a-9ba4-7e7e69966f35 = { name = "BitFlags", path = "B/BitFlags" }
