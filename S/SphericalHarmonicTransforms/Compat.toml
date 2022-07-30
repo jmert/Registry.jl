@@ -1,0 +1,5 @@
+[0]
+AssociatedLegendrePolynomials = "1"
+Compat = "3.25.0-4"
+FFTW = "1"
+julia = "1.2.0-1"

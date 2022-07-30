@@ -1,0 +1,3 @@
+name = "SphericalHarmonicTransforms"
+uuid = "b59b3b60-d6a7-4e29-bf1f-fd1ceecb3c6a"
+repo = "https://github.com/jmert/SphericalHarmonicTransforms.jl.git"

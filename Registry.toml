@@ -10,4 +10,5 @@ Repository of Justin Willmert's julia packages.
 592991c5-7c29-5f04-aea2-6d9f924ef2a1 = { name = "CMB", path = "C/CMB" }
 674b2976-56af-439b-a2b1-837be4a3d087 = { name = "UnixMmap", path = "U/UnixMmap" }
 7642852e-7f09-11e9-134e-0940411082b6 = { name = "Legendre", path = "L/Legendre" }
+b59b3b60-d6a7-4e29-bf1f-fd1ceecb3c6a = { name = "SphericalHarmonicTransforms", path = "S/SphericalHarmonicTransforms" }
 d1d4a3ce-64b1-5f1a-9ba4-7e7e69966f35 = { name = "BitFlags", path = "B/BitFlags" }
