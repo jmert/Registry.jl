@@ -54,3 +54,7 @@ HDF5 = "0.16"
 
 ["0.3.2-0"]
 Compat = "3.25.0-4"
+
+["0.3.3-0"]
+Healpix = "1"
+SphericalHarmonicTransforms = "0.1.1-0.1"
