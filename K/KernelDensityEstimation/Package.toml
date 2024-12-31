@@ -1,3 +1,3 @@
 name = "KernelDensityEstimation"
 uuid = "e46ec5f4-66dc-4371-a668-81bd92d19d7d"
-repo = "https://github.com/jmert/KernelDensityEstimation.jl"
+repo = "https://github.com/jmert/KernelDensityEstimation.jl.git"

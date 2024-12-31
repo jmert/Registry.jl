@@ -13,3 +13,4 @@ Repository of Justin Willmert's julia packages.
 7642852e-7f09-11e9-134e-0940411082b6 = { name = "Legendre", path = "L/Legendre" }
 b59b3b60-d6a7-4e29-bf1f-fd1ceecb3c6a = { name = "SphericalHarmonicTransforms", path = "S/SphericalHarmonicTransforms" }
 d1d4a3ce-64b1-5f1a-9ba4-7e7e69966f35 = { name = "BitFlags", path = "B/BitFlags" }
+e46ec5f4-66dc-4371-a668-81bd92d19d7d = { name = "KernelDensityEstimation", path = "K/KernelDensityEstimation" }
